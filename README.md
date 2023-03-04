@@ -19,8 +19,3 @@ There is two ways to install it .
 ```
 Second is download the whole file as zip. 
 And you can run the .exe file in the download file.
-
-    
-## Screenshots
-
-
