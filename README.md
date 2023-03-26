@@ -1,7 +1,7 @@
 
 # Word to mp3 file
 
-This is a GUI based exe file for Windows computer machines. This is made with python programing language. IT’s very light weight and easy to use tool. This tool converts words to a mp3 file and its GUI interface makes it more interactive . This tool is highly use full for editing purposes like video editing. There you can convert speech to mp3 file in male or female voice as your requirements.
+This is a GUI based exe file for Windows computer machines. This is made with python programing language. IT’s very light weight and easy to use tool. This tool converts words to a mp3 file and its GUI interface makes it more interactive . This tool is highly use full for editing purposes like video editing. There you can convert speech to mp3 file in male or female voice as your requirements.Now There is three options of voices, one of them is female voice by Googel speech to use this you need internet connections. The exe requireds more upgrades but for now it can be easily use for video editing perpose.
 
 
 
@@ -9,6 +9,8 @@ This is a GUI based exe file for Windows computer machines. This is made with py
 
 - [@Subhodip1307](https://github.com/Subhodip1307)
 
+## Required OS
+- Windows only
 
 ## Installation
 
@@ -19,3 +21,6 @@ There is two ways to install it .
 ```
 Second is download the whole file as zip. 
 And you can run the .exe file in the download file.
+
+After successfuly downloading it just run the exe file
+
