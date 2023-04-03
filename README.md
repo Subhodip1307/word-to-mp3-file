@@ -21,9 +21,13 @@ There is two ways to install it .
 ```
 Second is download the whole file as zip. 
 And you can run the .exe file in the download file.
-#How To use
+
+# How To use
+
 If you just want to use this then go to the "exe_file" folder and run the exe and use it as well as.
 There is provied source code file you can use it or help to update the project .
 After successfuly downloading it just run the exe file
-#Thank You
+
+# Thank You
+
 
